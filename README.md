@@ -1,4 +1,7 @@
 # Customer-Churning-Prediction
+
+<center><img src="https://www.cleartouch.in/wp-content/uploads/2022/11/Customer-Churn.png", height=300><center>
+
 This project predicts customer churn using scikit-learn (LogisticRegression, KNN, RandomForestClassifier) and TensorFlow neural networks. It aims to compare traditional and deep learning models for churn prediction.
 
 ### Prerequisites
